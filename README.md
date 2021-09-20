@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @waifu-master. You might also know me as DEVtuber dedbuckboi (check out my youtube as well!)
+- 👋 Hi, I’m @waifu-master.
 - 👀 I’m interested in ...
   - UI / UX design.
   - eCommerce in general. I'm quite experienced in WooCommerce.
@@ -12,8 +12,6 @@
   - Web app projects
   - Anime-related projects
   - Making anime games
-- 📫 How to reach me ...
-  - DM me on my twitter @dedbuckboi
 
 <!---
 waifu-master/waifu-master is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
